@@ -20,6 +20,5 @@ Example:
 ```
 
 ## FYI
-BeatboxExt only support preset version v3.2.0 and v0.2.1.
-
+BeatboxExt only support preset version v3.2.0 and v0.2.1.  
 Other versions will be supported soon
