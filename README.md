@@ -1,6 +1,6 @@
 # BeatboxExt
 ## What it does?
-Extract sample from Caustic's Beatbox preset
+Extract sample from Caustic's Beatbox preset.
 
 ## How to build
 Open the project on Visual Studio 2015 and build.
@@ -20,5 +20,6 @@ Example:
 ```
 
 ## FYI
-BeatboxExt only support preset version v3.2.0 and v0.2.1
+BeatboxExt only support preset version v3.2.0 and v0.2.1.
+
 Other versions will be supported soon
